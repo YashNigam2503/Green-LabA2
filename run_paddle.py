@@ -11,7 +11,7 @@ img_folder = './images/Book_en'  # Change to your image folder
 results = []
 
 for img_name in os.listdir(img_folder):
-    if not img_name.lower().endswith(('.png', '.jpg', '.jpeg')):
+    if not img_name.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff')):
         continue
 
     img_path = os.path.join(img_folder, img_name)
