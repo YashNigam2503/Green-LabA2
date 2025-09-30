@@ -1,1 +1,2 @@
 # Green-LabA2
+The image files in noisy data were in tiff format. I have converted the images in Noisy_dataset/Old_books_2noise to .jpg but it lead to reduction in quality of images. I used this site to convert-https://www.iloveimg.com/convert-to-jpg/tiff-to-jpg. it has a limit though on number of images we can convert and mine is done. If possible please convert as many images as possible.
